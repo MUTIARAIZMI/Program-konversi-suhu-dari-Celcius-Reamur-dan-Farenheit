@@ -1,5 +1,7 @@
 # Program konversi suhu dari Celcius,Reamur,dan Farenheit
 
+Alur Algoritma
+
 Coding program lengkap
 
     #include <iostream>
